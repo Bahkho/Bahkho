@@ -5,7 +5,8 @@
 
 I am a frontend web developer with over a year of experience in software development. My passion for learning and collaboration with fellow developers is at the core of my work. My focus is on building functional and aesthetically pleasing apps and websites, and I am dedicated to continuous improvement in this field.
 
+- 📚 I'm currently learning Java
 - 👯 I’m looking to collaborate on web development projects
-- 📚 I'm currently learning Redux
 - ✉️  You can contact me at akoredebakare4u@gmail.com
+- 🖥️ See my portfolio at https://abdul-portfolio.vercel.app/
 
