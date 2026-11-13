@@ -13,7 +13,6 @@ I enjoy transforming data into actionable insights that support better business 
 * ✉️ Contact me at: [akoredebakare4u@gmail.com](mailto:akoredebakare4u@gmail.com)
 * 📍 Halifax, Nova Scotia, Canada
 * 🔗 LinkedIn: https://linkedin.com/in/bahkho
-* 🌐 Portfolio: https://abdul-portfolio.vercel.app/
 
 ## Skills
 
